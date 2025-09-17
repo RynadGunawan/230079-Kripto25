@@ -49,6 +49,7 @@ Program berjalan dalam mode menu interaktif sehingga pengguna dapat memilih oper
 ```bash
 g++ elgamal.cpp -o elgamal
 ./elgamal
+```
 
 ---
 # Screenshoot Running Program

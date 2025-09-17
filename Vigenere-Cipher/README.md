@@ -26,7 +26,7 @@ Program berjalan dalam mode menu interaktif sehingga pengguna dapat memilih oper
    - `0` → Keluar dari program
 
 2. **Enkripsi**
-   - Masukkan plaintext (hanya huruf A–Z).  
+   - Masukkan plaintext (huruf).  
    - Masukkan kunci (key).  
    - Program akan mengubah setiap huruf plaintext dengan penjumlahan huruf kunci secara berulang menggunakan operasi mod 26.  
    - Hasil enkripsi ditampilkan sebagai ciphertext.
@@ -47,8 +47,10 @@ Program berjalan dalam mode menu interaktif sehingga pengguna dapat memilih oper
 ```bash
 g++ vigenere.cpp -o vigenere
 ./vigenere
+```
 
 ---
+
 # Screenshoot Running Program
 
 ## Enkripsi
