@@ -34,7 +34,7 @@ Program berjalan dalam mode menu interaktif sehingga pengguna dapat memilih oper
    - Hasil enkripsi berupa ciphertext `(C1, C2)` untuk setiap huruf.
 
 3. **Dekripsi**
-   - Masukkan bilangan prima `p`, generator `g`, dan kunci privat `x`.  
+   - Masukkan bilangan prima `p`, bilangan acak `g`, dan private key `x`.  
    - Masukkan jumlah huruf dan pasangan ciphertext `(C1, C2)`.  
    - Program menghitung plaintext kembali dalam bentuk angka dan huruf.  
    - Hasil dekripsi ditampilkan sebagai plaintext huruf.
